@@ -1,9 +1,5 @@
 /******************************************************************************
-
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, HTML, CSS, JS.
-Code, Compile, Run and Debug online from anywhere in world.
-
+Created and tested on GDB Online.
 *******************************************************************************/
 #include <stdio.h>
 #include <iostream>
